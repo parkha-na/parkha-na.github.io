@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MTV pattern and MVC pattern"
-date:   {{post.date | date: %B %d,%Y}} 
+date:   2024-02-07
 categories:
 ---
 
