@@ -6,4 +6,4 @@ permalink: /
 
 # Welcome
 
-Hello everyone.
+Hello everyone. This is a blog for studying development languages.
