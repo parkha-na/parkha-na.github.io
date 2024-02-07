@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MTV pattern and MVC pattern"
-date:   {% last_modified_at %Y:%B:%A:%d:%S:%R %}
+date:   {{post.date | date: %B %d,%Y}} 
 categories:
 ---
 
