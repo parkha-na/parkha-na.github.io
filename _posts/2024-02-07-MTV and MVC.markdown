@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MTV & MVC"
+title:  "MTV ㅁ MVC"
 date:   2024-02-07
 categories:
 ---
