@@ -1,5 +1,5 @@
 ---
-title: /
+title: Hana's Blog
 layout: home
 permalink: /
 ---
