@@ -6,4 +6,4 @@ permalink: /
 
 # Welcome
 
-Hello my world.
+Hello everyone.
