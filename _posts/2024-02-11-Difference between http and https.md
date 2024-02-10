@@ -3,6 +3,7 @@ layout: post
 title:  "Difference between http and https"
 date:   2024-02-11
 categories:
+published: true
 ---
 
 # Difference between http and https
