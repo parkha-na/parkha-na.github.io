@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Difference between http and https"
-date:   2024-02-11
+title:  "Difference between Cookies and Sessions"
+date:   2024-02-12
 categories:
 published: true
 ---
