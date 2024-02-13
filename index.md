@@ -1,5 +1,5 @@
 ---
-title: Sincere developer Hana Park's Blog
+title: The Growing Developer Hana Park's Blog
 layout: home
 permalink: /
 ---
