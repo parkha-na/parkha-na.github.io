@@ -1,5 +1,5 @@
 ---
-title: Hana's Blog
+title: Sincere developer Hana's Blog
 layout: home
 permalink: /
 ---
