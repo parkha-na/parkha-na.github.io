@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Difference between SI and SM"
+title: "Difference between list and tuple"
 date: 2024-02-16
 categories:
 published: true
